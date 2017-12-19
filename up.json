@@ -1,0 +1,7 @@
+{
+  "name": "psybot",
+  "profile": "default",
+  "regions": [
+    "eu-central-1"
+  ]
+}
